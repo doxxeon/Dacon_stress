@@ -12,26 +12,26 @@
 ### 📂 데이터 설명
 
 ✅ Features
-	•	범주형 변수
-	•	gender: 성별
-	•	activity: 생활시 운동 강도
-	•	smoke_status: 흡연 상태
-	•	medical_history: 만성질환
-	•	family_medical_history: 가족력
-	•	sleep_pattern: 수면패턴
-	•	edu_level: 학력
-	•	연속형 변수
-	•	age: 연령
-	•	height: 키(cm)
-	•	weight: 몸무게(kg)
-	•	cholesterol: 콜레스테롤 수치
-	•	systolic_blood_pressure: 수축기 혈압
-	•	diastolic_blood_pressure: 이완기 혈압
-	•	glucose: 혈당 수치
-	•	bone_density: 골밀도(g/cm²)
-	•	mean_working: 1주일당 평균 근로 시간
-	•	Target
-	•	stress_score: 스트레스 점수 (0~1 사이 연속값)
+	•	범주형 변수   
+	•	gender: 성별    
+	•	activity: 생활시 운동 강도   
+	•	smoke_status: 흡연 상태   
+	•	medical_history: 만성질환   
+	•	family_medical_history: 가족력   
+	•	sleep_pattern: 수면패턴   
+	•	edu_level: 학력   
+	•	연속형 변수   
+	•	age: 연령   
+	•	height: 키(cm)   
+	•	weight: 몸무게(kg)   
+	•	cholesterol: 콜레스테롤 수치   
+	•	systolic_blood_pressure: 수축기 혈압   
+	•	diastolic_blood_pressure: 이완기 혈압   
+	•	glucose: 혈당 수치   
+	•	bone_density: 골밀도(g/cm²)   
+	•	mean_working: 1주일당 평균 근로 시간   
+	•	Target   
+	•	stress_score: 스트레스 점수 (0~1 사이 연속값)   
 
 ⸻
 
